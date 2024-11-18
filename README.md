@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjawal2700" alt="ujjawal2700" /></a> </p>
 
-- 📫 How to reach me <a href="devujjawal.in" targer="_blank">My Portfolio Website</a> 
+- 📫 Click here to watch <a href="https://devujjawal.in" targer="_blank">My Portfolio Website</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
